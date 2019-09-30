@@ -2,4 +2,5 @@ package bomb;
 
 public enum Direction {
 	LEFT, RIGHT
+	// ธÞที
 }
